@@ -51,5 +51,37 @@ nav > ul{
     background-image: url('./images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
-    align-items: center;
+    justify-content: space-between;
+}
+.banner-image{
+    padding-right: 100px;
+}
+.hisection{
+    Color: #393636
+    font-family: Open Sans;
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.My-name{
+color:rgb(22, 20, 20)
+font-family: Open Sans;
+font-size: 70px;
+font-weight: 700;
+margin-top: 0px;
+}
+
+.my-detail{
+    color:rgb(51, 47, 47)
+    font-family: Open Sans;
+    font-size: 22px;
+    font-weight: 400;
+    line-height:35px;
+    margin-top: 0px;
+}
+
+.About-section{
+    background-color: #f9e9de;
+    
 }

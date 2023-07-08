@@ -43,5 +43,12 @@ nav > ul{
  /* Header Related Styel*/
  .Header{
     background-color:#fef2e9;
-
  }
+ .banner{
+    display: flex;
+    padding-left: 200px;
+    padding-right: 40px;
+    background-image: url('./images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
